@@ -1,6 +1,6 @@
 # Sort #
 
-## We have a vector "v" of integers and we want to sort those integers.##
+## We have a vector "v" of integers and we want to sort those integers.
 ## In order to do that we follow the next steps:
  1) Create a new empty vector "vf" of integers.
  2) Insert in this empty vector the first two integers from v.
