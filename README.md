@@ -14,7 +14,7 @@
 	{ 3.1 if: left+1==right insert between left and right.
 	  3.2 else if: left_element<=nextInt<=(left+right)/2_element recall f(nextInt,left,(left+right)/2).
 	  3.3 else recall f(nextInt,(left+right)/2,right).
-	}.\
+	}.
  5) Call f( nextInt,0,vf.size()-1)
  
 	
